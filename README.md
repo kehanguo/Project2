@@ -16,4 +16,3 @@ auth.set_access_token("ACCESS_TOKEN", "ACCESS_TOKEN_SECRET")
 
 Tesing result:
 
-[My image](username.github.com/repository/img/image.jpg)
