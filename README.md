@@ -22,6 +22,12 @@ Tesing result:<img width="664" alt="Screen Shot 2020-10-04 at 22 31 23" src="htt
 https://cloud.google.com/natural-language/automl/docs/quickstart?authuser=2
 
 In terminal, run: export GOOGLE_APPLICATION_CREDENTIALS="/home/user/Downloads/my-key.json"
+The google Natural language processing documentations can be found at:
+https://cloud.google.com/natural-language/docs/setup
+
+In this project, I specifically implemented a sentiment analysis code to test the polarity in a sentence.
+
+![Uploading Screen Shot 2020-10-05 at 11.23.09.png…]()
 
 
 
