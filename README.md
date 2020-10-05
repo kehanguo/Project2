@@ -27,7 +27,7 @@ https://cloud.google.com/natural-language/docs/setup
 
 In this project, I specifically implemented a sentiment analysis code to test the polarity in a sentence.
 
-![Uploading Screen Shot 2020-10-05 at 11.23.09.png…]()
 
+<img width="731" alt="Screen Shot 2020-10-05 at 11 23 09" src="https://user-images.githubusercontent.com/52185318/95099123-84d55c80-06fd-11eb-9190-f01a25308da5.png"
 
 
