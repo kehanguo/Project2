@@ -11,10 +11,10 @@ from nltk.tokenize import WordPunctTokenizer
 
 
 
-ACC_TOKEN = '1051661308645531649-1Jev6lcJeEhB1kQgqUC53PMWBzSGx6'
-ACC_SECRET = '61N7BRULS0BZ3QiaFgS6Dvg4yewO32vFA2zkdoivStQXJ'
-CONS_KEY = 'BpWTOaNqQlFpdNHSAXqy5olus'
-CONS_SECRET = 'MYUWWF8jWkOUF8RZFbLFRGiRxyZjSEn3owDI1eVS3pMylW8sUd'
+ACC_TOKEN = ''
+ACC_SECRET = ''
+CONS_KEY = ''
+CONS_SECRET = ''
 
 def authentication(cons_key, cons_secret, acc_token, acc_secret):
     auth = tweepy.OAuthHandler(cons_key, cons_secret)
